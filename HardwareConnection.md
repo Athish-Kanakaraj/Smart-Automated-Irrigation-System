@@ -72,13 +72,6 @@ Below are the wiring details for all sensors, modules, relays, and peripherals u
 
 ---
 
-## 🔆 Status LED (Optional)
-| Device | ESP32 Pin |
-|--------|-----------|
-| LED    | GPIO 2    |
-
----
-
 ## 🧷 Power Guidelines
 - ESP32 powered via USB or 5V input  
 - Soil moisture sensor may require 3.3V or 5V (depends on module version)  
